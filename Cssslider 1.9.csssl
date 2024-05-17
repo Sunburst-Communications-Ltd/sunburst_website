@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>cssSlider</AppName>
+            <AppUrlS>cssSlider.com</AppUrlS>
+            <AppVersion>1.9</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryDesc></GalleryDesc>
+            <GalleryKeywords></GalleryKeywords>
+            <GalleryName>Cssslider 1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <GalleryTitle></GalleryTitle>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>slide</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>:/templates/backgnd/agile/</ImageTemplate>
+            <ImageTemplateName>Agile</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <PlayPause>true</PlayPause>
+            <PublishFileName>C:/Users/Michael Baya/Documents/cssSlider/cssslider.html</PublishFileName>
+            <PublishIndex>cssslider.html</PublishIndex>
+            <PublishPath>C:/Users/Michael Baya/Documents/cssSlider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>60</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>false</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateFont>Lato</TemplateFont>
+            <TemplateName>agile</TemplateName>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkImage></WatermarkImage>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <WatermarkText>cssSlider.com</WatermarkText>
+            <WatermarkType>1</WatermarkType>
+            <color>#ff681f</color>
+            <descriptionPos>bottomLeft</descriptionPos>
+            <enableTouch>false</enableTouch>
+            <fullWidth>0</fullWidth>
+            <ieSupport>true</ieSupport>
+            <noFrame>false</noFrame>
+            <showHover>true</showHover>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Michael Baya/Pictures/rain wolf little red riding hood artwork 1280x800 wallpaper_www.wallpaperhi.com_88.jpg</url>
+                <title>rain wolf little red riding hood artwork 1280x800 wallpaper_www.wallpaperhi.com_88</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Michael Baya/Pictures/The-Dark-Knight-Rises-the-dark-knight-rises-32094419-500-450.png</url>
+                <title>The-Dark-Knight-Rises-the-dark-knight-rises-32094419-500-450</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Michael Baya/Pictures/Franklin is a bad ass.jpg</url>
+                <title>Franklin is a bad ass</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
